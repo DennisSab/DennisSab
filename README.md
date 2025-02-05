@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Denis Sampani</h1>
+<h1 align="center">Hi 👋, I'm Ntenis Sampani</h1>
 <h3 align="center">A passionate undergraduate developer from Greece</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennissab&label=Profile%20views&color=0e75b6&style=flat" alt="dennissab" /> </p>
