@@ -55,9 +55,6 @@
 ### Multi-Environment DevOps Platform
 Branch-based deployment platform with **Docker, Nginx, GitHub Actions, Terraform, and AWS**.
 
-### Peptide Generation & Evaluation Pipeline
-Built an end-to-end pipeline for **training, generation, and evaluation** of peptide sequences using language models.
-
 ### Kubernetes & Cloud Projects
 Worked on deployments, ingress, autoscaling, Helm charts, and metrics collection in Kubernetes environments.
 
