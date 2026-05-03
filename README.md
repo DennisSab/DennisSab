@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 MSc Student in Computer Science at the **University of Crete**
 - 🔬 Research Assistant at **FORTH**
@@ -22,7 +22,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ntenis-sampani-5b1516293/" target="_blank">
@@ -32,7 +32,7 @@
 
 ---
 
-## 💻 Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,mysql,linux,docker,kubernetes,terraform,git,github,vscode" />
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Featured Interests
+## Featured Interests
 
 - DevOps & Cloud Infrastructure
 - Kubernetes & Containerized Applications
@@ -50,7 +50,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### Multi-Environment DevOps Platform
 Branch-based deployment platform with **Docker, Nginx, GitHub Actions, Terraform, and AWS**.
@@ -71,7 +71,3 @@ Worked on deployments, ingress, autoscaling, Helm charts, and metrics collection
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-I like turning ideas into hands-on projects and learning new technologies through real implementation.
