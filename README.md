@@ -60,14 +60,3 @@ Worked on deployments, ingress, autoscaling, Helm charts, and metrics collection
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dennissab&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennissab&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
-
----
